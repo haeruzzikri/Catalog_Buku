@@ -1,0 +1,14 @@
+simple/example/catalog_buku_pedia/modelbuku/NonFiksi.java
+ simple.example.catalog_buku_pedia.modelbuku.NonFiksi
+simple/example/catalog_buku_pedia/MainActivity.java
+ simple.example.catalog_buku_pedia.MainActivity
+simple/example/catalog_buku_pedia/modelbuku/Buku.java
+ simple.example.catalog_buku_pedia.modelbuku.Buku
+simple/example/catalog_buku_pedia/BuildConfig.java
+ simple.example.catalog_buku_pedia.BuildConfig
+simple/example/catalog_buku_pedia/GaleriActivity.java
+ simple.example.catalog_buku_pedia.GaleriActivity
+simple/example/catalog_buku_pedia/DataBuku.java
+ simple.example.catalog_buku_pedia.DataBuku
+simple/example/catalog_buku_pedia/modelbuku/Fiksi.java
+ simple.example.catalog_buku_pedia.modelbuku.Fiksi
